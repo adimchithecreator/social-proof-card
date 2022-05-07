@@ -32,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [https://beamish-lollipop-2d767e.netlify.app/](https://beamish-lollipop-2d767e.netlify.app/)
 
 ## My process
 
